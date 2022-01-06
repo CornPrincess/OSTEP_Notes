@@ -1,5 +1,5 @@
-# Resource
-
+## Resource
+**Website:**
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP) 
 - [Chinese Translation](https://github.com/remzi-arpacidusseau/ostep-translations)
 - [CS-537 videos](https://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/Discussion/videos.html)
@@ -7,7 +7,7 @@
 - [ostep-homework](https://github.com/remzi-arpacidusseau/ostep-homework)  
 - [ostep-projects](https://github.com/remzi-arpacidusseau/ostep-projects)
 
-Reference Project:
+**Reference Project:**
 - [OSTEP-Answers](https://github.com/jzplp/OSTEP-Answers)
 - [ostep-hw](https://github.com/CornPrincess/ostep-hw)
 - [Operating-Systems-Three-Easy-Pieces-NOTES](https://github.com/CornPrincess/Operating-Systems-Three-Easy-Pieces-NOTES)
