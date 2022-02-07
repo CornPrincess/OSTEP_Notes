@@ -39,7 +39,7 @@ C/Linux Projects and Kernel Hacking Projects (xv6)
 
 5. [x] [Interlude: Process API](./Chapter-05)
 
-6. [ ] [Mechanism: Limited Direct Execution](./6)
+6. [x] [Mechanism: Limited Direct Execution](./Chapter-06)
 
 7. [ ] [Scheduling: Introduction](./7)
 
